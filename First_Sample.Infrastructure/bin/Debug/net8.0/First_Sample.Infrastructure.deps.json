@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "First_Sample.Infrastructure/1.0.0": {
+        "runtime": {
+          "First_Sample.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First_Sample.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
